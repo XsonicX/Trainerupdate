@@ -1,11 +1,13 @@
-<size>1759830</size>
-<update1>http://s.dropcanvas.com/1000000/925000/924653/FV2-XSONICX.XSONICX</update1>
-<update2>https://cld.pt/dl/download/5d292d35-816a-47e8-8c5b-2ffce11ec48b/FV2-XSONICX.XSONICX</update2>
+<size>1759555</size>
+<update1>http://s.dropcanvas.com/1000000/935000/934364/FV2-XSONICX.XSONICX</update1>
+<update2>https://cld.pt/dl/download/e71a2c1e-7326-4253-befc-157defd8f0bb/FV2-XSONICX.XSONICX</update2>
 <update3>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update3>
-<version>11.0</version>
+<version>11.1</version>
 <news>
-New version of EXE and Theme.
+New version of EXE.
 Fix Update.
 Fix Auto Attach and now try all browsers.
 Add New Menu Option Choice.
+Some new changes to script.
+Happy New 2018
 </news>
