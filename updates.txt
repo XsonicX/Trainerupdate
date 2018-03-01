@@ -1,6 +1,6 @@
-<size>1761790</size>
-<update1>http://s.dropcanvas.com/1000000/953000/952788/FV2-XSONICX.XSONICX</update1>
-<update2>https://cld.pt/dl/download/2f2567b6-2545-45e1-91a3-26b9923000d0/FV2-XSONICX.XSONICX</update2>
+<size>1761791</size>
+<update1>http://s.dropcanvas.com/1000000/954000/953795/FV2-XSONICX.XSONICX</update1>
+<update2>https://cld.pt/dl/download/e02fd2d2-aacd-4fe2-94c5-0b35f41d9c5a/FV2-XSONICX.XSONICX</update2>
 <update3>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update3>
 <version>11.3</version>
 <news>
