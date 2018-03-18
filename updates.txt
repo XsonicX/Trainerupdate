@@ -1,8 +1,8 @@
-<size>1910450</size>
-<update1>http://s.dropcanvas.com/1000000/957000/956811/FV2-XSONICX.XSONICX</update1>
-<update2>https://cld.pt/dl/download/24d45df9-685a-4d74-a003-29f464eafb8f/FV2-XSONICX.XSONICX</update2>
+<size>1950085</size>
+<update1>http://s.dropcanvas.com/1000000/959000/958971/FV2-XSONICX.XSONICX</update1>
+<update2>https://cld.pt/dl/download/5984564c-c85a-4c2c-80aa-37a0055c2a79/FV2-XSONICX.XSONICX</update2>
 <update3>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update3>
-<version>12.0</version>
+<version>12.1</version>
 <news>
 Happy New 2018
 </news>
