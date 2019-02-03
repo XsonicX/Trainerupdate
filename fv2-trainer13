@@ -1,10 +1,11 @@
-<size>1664927</size>
-<update1>https://cld.pt/dl/download/b4a6d319-6e90-4105-ac64-85cf090f6ff8/FV2-XSONICX.XSONICX</update1>
+<size>1666629</size>
+<update1>https://cld.pt/dl/download/c66b4811-f506-4afc-badb-404f3a7e8d10/FV2-XSONICX.XSONICX</update1>
 <update2>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update2>
 <update3>http://xsonicxfv2trainer.000webhostapp.com/FV2-XSONICX.XSONICX</update3>
-<version>16.0</version>
+<version>16.1</version>
 <news>
--New Theme in game.
--Fix all the current bugs, thanks Conny Schneider.
+-Fix the level with Xp,+1+15, jump levels.
+-Add new script buy items for 1 million coins and spend them.
 -Fix Harvest in Minutes and Jump Orders.
+-You can use the buttons V (Video) to see how all scripts works.
 </news>
