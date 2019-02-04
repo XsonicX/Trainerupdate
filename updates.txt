@@ -1,8 +1,9 @@
-<size>1830199</size>
-<update1>http://s.dropcanvas.com/1000000/983000/982525/FV2-XSONICX.XSONICX</update1>
-<update2>https://cld.pt/dl/download/4f99afc7-b9db-4087-a1de-306f969b242c/FV2-XSONICX.XSONICX</update2>
-<update3>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update3>
-<version>13.4</version>
+<size>1666615</size>
+<update1>https://cld.pt/dl/download/24750207-e5f4-40c0-922f-d92201a27b64/FV2-XSONICX.XSONICX</update1>
+<update2>http://fv2xsonicxtrainer.atwebpages.com/FV2-XSONICX.XSONICX</update2>
+<update3>http://xsonicxfv2trainer.000webhostapp.com/FV2-XSONICX.XSONICX</update3>
+<version>16.2</version>
 <news>
-Happy New 2018
+-Add New settings to find better the game.
+-You can use the buttons V (Video) to see how all scripts works.
 </news>
