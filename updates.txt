@@ -1,9 +1,0 @@
-<size>1666616</size>
-<update1>http://s.dropcanvas.com/1000000/983000/982525/FV2-XSONICX.XSONICX</update1>
-<update2>http://s.dropcanvas.com/1000000/983000/982525/FV2-XSONICX.XSONICX</update2>
-<update3>http://s.dropcanvas.com/1000000/983000/982525/FV2-XSONICX.XSONICX</update3>
-<version>16.9</version>
-<news>
--Add New settings to find better the game.
--You can use the buttons V (Video) to see how all scripts works.
-</news>
