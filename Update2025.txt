@@ -1,7 +1,7 @@
-<size>2467912</size>
+<size>2468077</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
-<update2>https://xsonicx.mygamesonline.org/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://downloads.fv2xsonicxtrainer.com/2025/FV2-XSONICX.XSONICX</update3>
+<update2>https://downloads.fv2xsonicxtrainer.com/2025/FV2-XSONICX.XSONICX</update2>
+<update3>https://edef8.pcloud.com/DLZW2pXj3Z5HH4Ox7ZtBY2ZZeMq60kZ2ZZkb0ZZT4aHZ8HZNRZ9HZoJcBp8LOLq0J0LQ4rThGNjt2Mr27/FV2-XSONICX.XSONICX</update3>
 <version>44.1.001</version>
 <news>
 Happy New Year 2026 💪🍾
