@@ -1,14 +1,14 @@
-<size>2461839</size>
+<size>2462034</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://cld.pt/dl/download/fadae63b-39ca-4480-b322-994d3ba0a18f/FV2-XSONICX.XSONICX</update3>
-<version>44.2.001</version>
+<update3>https://farmvile2byxsonicx.xyz/2025/FV2-XSONICX.XSONICX</update3>
+<version>44.3.001</version>
 <news>
-I buy another new Server to xsonicx.site.
+Fixed Sell from Inventory with 1 click,
 Fixed some functions. Vip Fixed.
-Change some design visuals.
 For 3€=21Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
 Buy VIP Deluxe Version 50€ 👑 50,000X, 50 Cash and more.
-Please Support my Work with Ko-fi(Paypal,ApplePay,GooglePay) or Skrill.
+Please Support my Work with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay;Multibanco) or Skrill.
+Your country can get more day for Free, check my Shop List.😊
 With your Support I can help others, that will be great and you will change my life too , Many thanks :)
 </news>
