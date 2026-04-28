@@ -1,7 +1,7 @@
 <size>2470948</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmvile2byxsonicx.xyz/2025/FV2-XSONICX.XSONICX</update2>
-<update3>fv2xsonicxtrainer.is-best.net/2025/FV2-XSONICX.XSONICX</update3>
+<update3>https://fv2xsonicxtrainer.is-best.net/2025/FV2-XSONICX.XSONICX</update3>
 <version>44.6.001</version>
 <news>
 Fixed Some functions.
