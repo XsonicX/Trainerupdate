@@ -1,11 +1,11 @@
-<size>2470869</size>
+<size>2470948</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
 <update3>https://farmvile2byxsonicx.xyz/2025/FV2-XSONICX.XSONICX</update3>
-<version>44.5.001</version>
+<version>44.6.001</version>
 <news>
-New function Crown Points, Unlock All Crown Rewards and change your farm with Great Rewards, Dress, Animals, Everything.
-This function will work for 5 days for Free 💪🤍.
+Fixed Some functions.
+Changed the way trainer open the game.
 For 3€=21Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
 Buy VIP Deluxe Version 50€ 👑 50,000X, 50 Cash and more.
 Please Support my Work with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay;Multibanco) or Skrill.
