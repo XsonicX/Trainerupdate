@@ -1,7 +1,7 @@
-<size>2471175</size>
+<size>2471216</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
-<update2>https://farmvile2byxsonicx.xyz/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://fv2xsonicxtrainer.is-best.net/2025/FV2-XSONICX.XSONICX</update3>
+<update2>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=633ab348-3b2b-46e8-a82c-5bd9a9524712&at=ALBwUgn6TU3Pl6KhAJbRzFwKBvr4:1778160501979</update2>
+<update3>https://fv2trainer.scienceontheweb.net/FV2-XSONICX.XSONICX</update3>
 <version>44.6.001</version>
 <news>
 Fixed Some functions.
