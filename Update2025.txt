@@ -1,5 +1,5 @@
-<size>2471434</size>
-<update1>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=eff4ff39-b450-4c08-881c-11184b15e4dd&at=ALBwUgnt8LWq-wEJAHt_VMQB9kwz:1778282229988</update1>
+<size>2471482</size>
+<update1>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=a9e88c06-0849-4fd6-94a6-02515a2b793c&at=ALBwUgmCzHWx4AnchmNNKZ_SHuK-:1778288374373</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
 <update3>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update3>
 <version>44.6.001</version>
