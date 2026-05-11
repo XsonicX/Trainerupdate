@@ -1,10 +1,11 @@
-<size>2471482</size>
-<update1>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=a9e88c06-0849-4fd6-94a6-02515a2b793c&at=ALBwUgmCzHWx4AnchmNNKZ_SHuK-:1778288374373</update1>
+<size>3924391</size>
+<update1>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=e9b4acc3-d1b9-4df3-8618-f25bdb226d31&at=ALBwUgnM37cpeLEsXobDkyrFFXLd:1778510043834</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
 <update3>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update3>
-<version>44.6.001</version>
+<version>45.1.001</version>
 <news>
-Fixed Some functions.
+New Theme 💙.
+Fixed Many Functions.
 Changed the way trainer open the game.
 For 3€=21Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
 Buy VIP Deluxe Version 50€ 👑 50,000X, 50 Cash and more.
