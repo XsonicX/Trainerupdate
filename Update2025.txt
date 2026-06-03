@@ -1,10 +1,11 @@
-<size>3924391</size>
-<update1>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=e9b4acc3-d1b9-4df3-8618-f25bdb226d31&at=ALBwUgnM37cpeLEsXobDkyrFFXLd:1778510043834</update1>
-<update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update3>
-<version>45.1.001</version>
+<size>3950978</size>
+<update1>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update1>
+<update2>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update2>
+<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=e9b4acc3-d1b9-4df3-8618-f25bdb226d31&at=ALBwUgnM37cpeLEsXobDkyrFFXLd:1778510043834.FV2-XSONICX.XSONICX</update3>
+<version>45.2.001</version>
 <news>
-New Theme 💙.
+new button-> see new Xsonic Puzzle 5 Level Game where you can access many new puzzles.
+new button-> Check if your Launcher is update, if is running, you can choose to play from facebook or zynga!
 Fixed Many Functions.
 Changed the way trainer open the game.
 For 3€=21Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
