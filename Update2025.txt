@@ -1,10 +1,10 @@
-<size>3936762</size>
+<size>3941075</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=e9b4acc3-d1b9-4df3-8618-f25bdb226d31&at=ALBwUgnM37cpeLEsXobDkyrFFXLd:1778510043834.FV2-XSONICX.XSONICX</update3>
-<version>45.4.001</version>
+<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=85ed427f-2c0b-45b9-887f-f2d8c30e6d6d&at=ABswASbu-QP9WGwSS1TJ6KcgYqf0:1784103077623.FV2-XSONICX.XSONICX</update3>
+<version>45.5.001</version>
 <news>
-New function to get Gifts direct from Zynga.
++1 New function to get Gifts direct from Zynga.
 Fixed Many Functions.
 100% compatilble with new servers of zynga.
 For 5€=35Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
