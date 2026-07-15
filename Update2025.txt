@@ -1,7 +1,7 @@
-<size>3941075</size>
+<size>3941225</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=85ed427f-2c0b-45b9-887f-f2d8c30e6d6d&at=ABswASbu-QP9WGwSS1TJ6KcgYqf0:1784103077623.FV2-XSONICX.XSONICX</update3>
+<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=6f32d45b-22d7-42bb-8fbe-9acc8045ae8b&at=ABswASbOCN_QoTaUfibmiBPRkacU:1784141203407.FV2-XSONICX.XSONICX</update3>
 <version>45.5.001</version>
 <news>
 +1 New function to get Gifts direct from Zynga.
