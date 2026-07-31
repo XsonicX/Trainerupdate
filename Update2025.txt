@@ -1,7 +1,7 @@
-<size>3524637</size>
+<size>3525005</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=f6113da2-f382-4323-ac39-774cc2bd0d28&at=ABswASY_d7ZNueNHcwUTu43FLArQ:1784533376769.FV2-XSONICX.XSONICX</update3>
+<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=5cc9f9a0-e381-4146-92cd-b83aff1b849e&at=AFYLz4OgeS7pV8CuPzCc13dmn0l5:1785537833721.FV2-XSONICX.XSONICX</update3>
 <version>46.1.001</version>
 <news>
 New Theme.
