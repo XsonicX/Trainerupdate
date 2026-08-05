@@ -1,10 +1,12 @@
-<size>3525005</size>
+<size>3525860</size>
 <update1>https://xsonicx.site/2025/FV2-XSONICX.XSONICX</update1>
 <update2>https://farmville2byxsonicx.com/2025/FV2-XSONICX.XSONICX</update2>
-<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=5cc9f9a0-e381-4146-92cd-b83aff1b849e&at=AFYLz4OgeS7pV8CuPzCc13dmn0l5:1785537833721.FV2-XSONICX.XSONICX</update3>
-<version>46.1.001</version>
+<update3>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=ec5beaf4-58c6-458a-af84-e577d94e155d&at=AFYLz4OSnmWWwZOw36jP5BzwWzIq:1785968059388.FV2-XSONICX.XSONICX</update3>
+<version>46.2.001</version>
 <news>
-New Theme.
+Fixed Option 1.
+New script in Option 2, now work with any cash.
+Fixed try to delete Expansions with one click.😉
 Fixed Many Functions.
 100% compatilble with new servers of zynga.
 For 5€=35Days get all options x25,000X, 5 Cash and more.❤️ or 5€=50 Days as Membership.
