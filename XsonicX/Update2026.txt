@@ -1,1 +1,15 @@
-
+<size>3523948</size>
+<update1>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update1>
+<update2>https://drive.usercontent.google.com/download?id=10BkLX9dG6F-Dwcyqj_mDU9xmoG6hlX1m&export=download&authuser=0&confirm=t&uuid=2b6d0f80-8842-4424-9a4a-b036ed644975&at=AFYLz4ObL--6ZI4zdR8JQP2itXqt:1786038004219.FV2-XSONICX.XSONICX</update2>
+<update3>https://xsonicx.site/2026/FV2-XSONICX.XSONICX</update3>
+<version>46.2.001</version>
+<news>
+Fixed Option 1.
+New script in Option 2, now work with any cash.
+Fixed try to delete Expansions with one click.😉
+Fixed Many Functions.
+100% compatilble with new servers of zynga.
+For 5€=30Days get all options x25,000X.
+Buy 1X VIP 👑 Deluxe Version 50€ Get 50,000X and more Options.
+Support with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay;Multibanco) or Skrill.
+</news>
