@@ -1,6 +1,6 @@
-<size>3523991</size>
+<size>3524341</size>
 <update1>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update1>
-<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=2b4f0af4-0437-4574-a317-884f2803508f&at=AFYLz4MWT9IrXTR8c8aoPA0lvhSA:1786099873681.FV2-XSONICX.XSONICX</update2>
+<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=546a651e-8d6d-4dd4-a270-2f6c66b697bf&at=AFYLz4PH1rQbEnUOuyFC1I1a6Q2-:1786356254031.FV2-XSONICX.XSONICX</update2>
 <update3>https://xsonicx.site/2026/FV2-XSONICX.XSONICX</update3>
 <version>46.3.001</version>
 <news>
