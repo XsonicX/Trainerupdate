@@ -1,14 +1,13 @@
-<size>3525353</size>
+<size>3536683</size>
 <update1>https://github.com/XsonicX/Trainerupdate/raw/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
-<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=22c9e876-b0a6-4135-8030-1eb3d40170f4&at=AFYLz4PRUhvYPJy0m4q4wN54z487:1786795077342.FV2-XSONICX.XSONICX</update2>
+<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=9dd7e644-38b5-4f8e-833b-bdc808ee0359&at=AFYLz4P8MC1vL02eHJqDh5bGTYdC:1787215049773.FV2-XSONICX.XSONICX</update2>
 <update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
-<version>46.3.001</version>
+<version>46.4.001</version>
 <news>
 Fixed Option 1.
-New script in Option 2, now work with any cash, active at Market.
-Fixed try to delete Expansions with one click.😉
-100% compatilble with new servers of zynga.
+New script in Option 2, now work with any cash,Just active at Market Free.
 For 5€=30Days get all options x25,000X.
+Get more 15% Extra Days until 31-08-2026.
 Buy 1X VIP 👑 Deluxe Version 50€ Get 50,000X and more Options.
 Support with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay;Multibanco) or Skrill.
 </news>
