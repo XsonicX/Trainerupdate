@@ -1,14 +1,11 @@
-<size>3525353</size>
-<update1>https://github.com/XsonicX/Trainerupdate/raw/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
-<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=22c9e876-b0a6-4135-8030-1eb3d40170f4&at=AFYLz4PRUhvYPJy0m4q4wN54z487:1786795077342.FV2-XSONICX.XSONICX</update2>
-<update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
-<version>46.3.001</version>
-<news>
-Fixed Option 1.
-New script in Option 2, now work with any cash, active at Market.
-Fixed try to delete Expansions with one click.😉
-100% compatilble with new servers of zynga.
-For 5€=30Days get all options x25,000X.
-Buy 1X VIP 👑 Deluxe Version 50€ Get 50,000X and more Options.
-Support with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay;Multibanco) or Skrill.
+<size>2984643</size>
+<update1>http://fv2trainerxsonicx.dx.am/ENDUPDATE2022/FV2-XSONICX.XSONICX</update1>
+<update2>http://fv2trainerbyxsonicx.dx.am/ENDUPDATE2022/FV2-XSONICX.XSONICX</update2>
+<update3>https://cld.pt/dl/download/88524fcf-00aa-4955-8c49-1d4cb66ee17f/FV2-XSONICX.XSONICX</update3>
+<version>36.9.999</version>
+<news>   -
+PLEASE CHECK FV2XSONICXTRAINER 2022 LINKS
+http://fv2xsonicxtrainer.is-great.org/
+https://www.facebook.com/groups/Fv2XsonicXTrainer
+https://www.facebook.com/Fv2XsonicXTrainer
 </news>
