@@ -1,6 +1,6 @@
-<size>3536683</size>
-<update1>https://github.com/XsonicX/Trainerupdate/raw/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
-<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=9dd7e644-38b5-4f8e-833b-bdc808ee0359&at=AFYLz4P8MC1vL02eHJqDh5bGTYdC:1787215049773.FV2-XSONICX.XSONICX</update2>
+<size>3539709</size>
+<update1>https://raw.githubusercontent.com/XsonicX/Trainerupdate/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
+<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=1068e98c-d33b-4003-96de-02aab1f28b96&at=AFYLz4OHWYjHM_64uE2FzvVhpYCr:1787299913478.FV2-XSONICX.XSONICX</update2>
 <update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
 <version>46.4.001</version>
 <news>
