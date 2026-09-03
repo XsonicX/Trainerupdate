@@ -1,11 +1,14 @@
-<size>2984643</size>
-<update1>http://fv2trainerxsonicx.dx.am/ENDUPDATE2022/FV2-XSONICX.XSONICX</update1>
-<update2>http://fv2trainerbyxsonicx.dx.am/ENDUPDATE2022/FV2-XSONICX.XSONICX</update2>
-<update3>https://cld.pt/dl/download/88524fcf-00aa-4955-8c49-1d4cb66ee17f/FV2-XSONICX.XSONICX</update3>
-<version>36.9.999</version>
-<news>   -
-PLEASE CHECK FV2XSONICXTRAINER 2022 LINKS
-http://fv2xsonicxtrainer.is-great.org/
-https://www.facebook.com/groups/Fv2XsonicXTrainer
-https://www.facebook.com/Fv2XsonicXTrainer
+<size>3539917</size>
+<update1>https://raw.githubusercontent.com/XsonicX/Trainerupdate/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
+<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=8d7efc19-92cd-48c3-b565-8b369edf5d66&at=AMrWOn0zaK3D75bmVVC6xhUCaLGJ:1788422915616.FV2-XSONICX.XSONICX</update2>
+<update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
+<version>46.5.001</version>
+<news>
+Fixed Option 1 now can deal with zynga changes.
+Fixed Some scripts.
+For 5€=30Days get all options x25,000X.
+Buy 1 Year for 40€ at Ko-fi Shop.
+Get more 15% Extra Days until 31-08-2026.
+Buy only 1 time the VIP 👑 Deluxe Version 50€, Get 50,000X and more Options. 
+Support my work 💖 with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay,Multibanco) or Skrill.
 </news>
