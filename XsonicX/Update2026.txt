@@ -1,6 +1,6 @@
-<size>3539917</size>
+<size>3539939</size>
 <update1>https://raw.githubusercontent.com/XsonicX/Trainerupdate/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
-<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=8d7efc19-92cd-48c3-b565-8b369edf5d66&at=AMrWOn0zaK3D75bmVVC6xhUCaLGJ:1788422915616.FV2-XSONICX.XSONICX</update2>
+<update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=26c17eba-c604-4fae-884f-8afe34ef5d72&at=AMrWOn2H6uXSvevqn-ZR4P_l39az:1788607221413.FV2-XSONICX.XSONICX</update2>
 <update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
 <version>46.5.001</version>
 <news>
@@ -8,7 +8,6 @@ Fixed Option 1 now can deal with zynga changes.
 Fixed Some scripts.
 For 5€=30Days get all options x25,000X.
 Buy 1 Year for 40€ at Ko-fi Shop.
-Get more 15% Extra Days until 31-08-2026.
 Buy only 1 time the VIP 👑 Deluxe Version 50€, Get 50,000X and more Options. 
 Support my work 💖 with Ko-fi https://ko-fi.com/fv2xsonicxtrainer (Paypal,ApplePay,GooglePay,Multibanco) or Skrill.
 </news>
