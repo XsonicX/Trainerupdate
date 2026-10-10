@@ -1,4 +1,4 @@
-<size>3539829</size>
+<size>3539757</size>
 <update1>https://raw.githubusercontent.com/XsonicX/Trainerupdate/refs/heads/master/XsonicX/FV2-XSONICX.XSONICX</update1>
 <update2>https://drive.usercontent.google.com/download?id=1-OXoPa-3nX0sun_GUdcAddsWTMHANmIr&export=download&authuser=0&confirm=t&uuid=a553af9d-54bf-4aa4-b9d7-f2f37a5c3a1e&at=AMrWOn0dYaAA5MgEPx4gsyCxGnKv:1788653269327.FV2-XSONICX.XSONICX</update2>
 <update3>https://farmville2byxsonicx.com/2026/FV2-XSONICX.XSONICX</update3>
